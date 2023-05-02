@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, my name is Brandon McMaster. I am a music producer, chef, and most recently a full time student at Tech Elevator in COlumbus, Ohio. I have a life long obsession with technology. I am currently enrolled in a cohort to become a .NET developer. I am extremely interested in artificial intelligence and how it could affect the lives of people across the planet in a positive manner. This is why I have also been taking time to learn about philosophy and theology because I feel they all tie together in some way. I am excited to find out how. 
+
+I spend most of my free time writing music, reading, playing video games, and pretty much general nerding out over what piques my interest in the moment. I have been with my wife going on 13 years now. I met her while I was on tour in a previous band, Sleeping With Sirens. Left Florida at 23 and never looked back once I met her. 
+
+I am very excited to start along the path towards becoming a software developer. It's something I have always been curious about but haven't had the time to persue until now. I know this will unlock the next level in my journey through this game we call life. I hope to be able to contribute something of value to the world with the knowledge I aquire. Thank you for taking the time to read this! 
